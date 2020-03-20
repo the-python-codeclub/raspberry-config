@@ -22,3 +22,6 @@ sudo rpi-update
 
 sudo adduser $GEBRUIKER  
 sudo adduser $GEBRUIKER gpio  
+
+# Pip3 installeren
+sudo apt install python3-pip
